@@ -4,6 +4,10 @@ declare(strict_types=1);
 
 namespace App\Domain\TcgCollector;
 
+use App\Domain\TcgCollector\Card\TcgcCard;
+use App\Domain\TcgCollector\Card\TcgcCards;
+use App\Domain\TcgCollector\Set\TcgcSet;
+use App\Domain\TcgCollector\Set\TcgcSets;
 use App\Infrastructure\Serialization\Json;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
@@ -30,7 +34,7 @@ final readonly class TcgCollector
         return $response->getBody()->getContents();
     }
 
-    public function getJapaneseSetsInProgress(string $userName): array
+    public function getJapaneseSetsInProgress(string $userName): TcgcSets
     {
         $response = $this->request(
             'sets/jp',
@@ -51,18 +55,18 @@ final readonly class TcgCollector
             throw new \RuntimeException('No sets in progress found, check if the regex needs updating.');
         }
 
-        $sets = [];
+        $sets = TcgcSets::empty();
         foreach ($matches['setId'] as $key => $setId) {
-            $sets[$setId] = [
-                'setId' => (int) $setId,
-                'setMachineName' => $matches['setMachineName'][$key],
-            ];
+            $sets->add(new TcgcSet(
+                setId: (int) $setId,
+                setMachineName: $matches['setMachineName'][$key]
+            ));
         }
 
         return $sets;
     }
 
-    public function getCardsInCollectionForSet(string $userName, int $setId): array
+    public function getCardsInCollectionForSet(string $userName, int $setId): TcgcCards
     {
         $response = $this->request(
             'sets/'.$setId,
@@ -81,11 +85,14 @@ final readonly class TcgCollector
         }
 
         $appState = Json::decode($match['appState']);
-        $cardsInCollection = [];
+        $cardsInCollection = TcgcCards::empty();
         foreach ($appState['cardIdToCardCollectionCardDtoMap'] ?? [] as $cardId => $map) {
-            $cardsInCollection[$cardId] = array_sum(array_map(
-                fn (array $entry) => $entry['cardCount'],
-                $map['entries'] ?? [],
+            $cardsInCollection->add(new TcgcCard(
+                cardId: (int) $cardId,
+                cardCount: array_sum(array_map(
+                    fn (array $entry) => $entry['cardCount'],
+                    $map['entries'] ?? [],
+                ))
             ));
         }
 
