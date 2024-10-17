@@ -101,6 +101,8 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
                     $totalCardValueInCollection = $price->multiply($card->getCardCount());
                     $json[] = [
                         'cardId' => $card->getCardId(),
+                        'cardName' => $correspondingJpnCard->getCardName(),
+                        'cardNumber' => $correspondingJpnCard->getCardSequenceNumber(),
                         'cardPrice' => $price,
                         'cardCount' => $card->getCardCount(),
                         'totalCardValueInCollection' => $totalCardValueInCollection,
