@@ -1,0 +1,7 @@
+services:
+  php-cli:
+    build: docker/php-cli
+    container_name: tcg-collector-japanese-prices-php-cli
+    volumes:
+      - ./:/var/www/
+    working_dir: /var/www

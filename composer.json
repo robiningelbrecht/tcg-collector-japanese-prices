@@ -7,7 +7,7 @@
     }
   ],
   "require": {
-    "php": "^8.2",
+    "php": "^8.3",
     "ext-dom": "*",
     "ext-json": "*",
     "doctrine/dbal": "^4.0",
@@ -15,6 +15,7 @@
     "guzzlehttp/guzzle": "^7.4",
     "league/csv": "^9.0",
     "league/flysystem": "^3.24",
+    "olvlvl/composer-attribute-collector": "^2.0",
     "php-di/php-di": "^7",
     "symfony/console": "^7.0",
     "thecodingmachine/safe": "^2.5"
@@ -28,6 +29,9 @@
     }
   },
   "config": {
-    "sort-packages": true
+    "sort-packages": true,
+    "allow-plugins": {
+      "olvlvl/composer-attribute-collector": true
+    }
   }
 }

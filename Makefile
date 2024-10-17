@@ -21,8 +21,11 @@ down:
 console:
 	@make dcr cmd="bin/console $(arg)"
 
+composer:
+	@make dcr cmd="composer $(arg)"
+
 csfix:
-	vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.dist.php
+	@make dcr cmd="vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.dist.php"
 migrate-generate:
 	vendor/bin/doctrine-migrations generate
 migrate-run:
