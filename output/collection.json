@@ -1,0 +1,9438 @@
+[
+  {
+    "cardId": 45871,
+    "cardPrice": {
+      "amount": "455",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "455",
+      "currency": "USD"
+    },
+    "setId": 11635,
+    "setName": "Paradise Dragona"
+  },
+  {
+    "cardId": 44265,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11603,
+    "setName": "Wild Force"
+  },
+  {
+    "cardId": 43522,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11602,
+    "setName": "Shiny Treasure ex"
+  },
+  {
+    "cardId": 43792,
+    "cardPrice": {
+      "amount": "1396",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1396",
+      "currency": "USD"
+    },
+    "setId": 11597,
+    "setName": "Venusaur, Charizard & Blastoise Special Deck Set ex"
+  },
+  {
+    "cardId": 43793,
+    "cardPrice": {
+      "amount": "2053",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2053",
+      "currency": "USD"
+    },
+    "setId": 11597,
+    "setName": "Venusaur, Charizard & Blastoise Special Deck Set ex"
+  },
+  {
+    "cardId": 43794,
+    "cardPrice": {
+      "amount": "1350",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1350",
+      "currency": "USD"
+    },
+    "setId": 11597,
+    "setName": "Venusaur, Charizard & Blastoise Special Deck Set ex"
+  },
+  {
+    "cardId": 43282,
+    "cardPrice": {
+      "amount": "629",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "629",
+      "currency": "USD"
+    },
+    "setId": 11600,
+    "setName": "Pok\u00e9mon TCG Classic (Blastoise)"
+  },
+  {
+    "cardId": 43283,
+    "cardPrice": {
+      "amount": "360",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "360",
+      "currency": "USD"
+    },
+    "setId": 11600,
+    "setName": "Pok\u00e9mon TCG Classic (Blastoise)"
+  },
+  {
+    "cardId": 43284,
+    "cardPrice": {
+      "amount": "2154",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2154",
+      "currency": "USD"
+    },
+    "setId": 11600,
+    "setName": "Pok\u00e9mon TCG Classic (Blastoise)"
+  },
+  {
+    "cardId": 43316,
+    "cardPrice": {
+      "amount": "599",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "599",
+      "currency": "USD"
+    },
+    "setId": 11599,
+    "setName": "Pok\u00e9mon TCG Classic (Charizard)"
+  },
+  {
+    "cardId": 43317,
+    "cardPrice": {
+      "amount": "384",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "384",
+      "currency": "USD"
+    },
+    "setId": 11599,
+    "setName": "Pok\u00e9mon TCG Classic (Charizard)"
+  },
+  {
+    "cardId": 43318,
+    "cardPrice": {
+      "amount": "8050",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "8050",
+      "currency": "USD"
+    },
+    "setId": 11599,
+    "setName": "Pok\u00e9mon TCG Classic (Charizard)"
+  },
+  {
+    "cardId": 43350,
+    "cardPrice": {
+      "amount": "559",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "559",
+      "currency": "USD"
+    },
+    "setId": 11598,
+    "setName": "Pok\u00e9mon TCG Classic (Venusaur)"
+  },
+  {
+    "cardId": 43351,
+    "cardPrice": {
+      "amount": "339",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "339",
+      "currency": "USD"
+    },
+    "setId": 11598,
+    "setName": "Pok\u00e9mon TCG Classic (Venusaur)"
+  },
+  {
+    "cardId": 43352,
+    "cardPrice": {
+      "amount": "1950",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1950",
+      "currency": "USD"
+    },
+    "setId": 11598,
+    "setName": "Pok\u00e9mon TCG Classic (Venusaur)"
+  },
+  {
+    "cardId": 43362,
+    "cardPrice": {
+      "amount": "178",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "178",
+      "currency": "USD"
+    },
+    "setId": 11598,
+    "setName": "Pok\u00e9mon TCG Classic (Venusaur)"
+  },
+  {
+    "cardId": 43363,
+    "cardPrice": {
+      "amount": "243",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "243",
+      "currency": "USD"
+    },
+    "setId": 11598,
+    "setName": "Pok\u00e9mon TCG Classic (Venusaur)"
+  },
+  {
+    "cardId": 41934,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 41942,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 41995,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 41997,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42014,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42021,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42026,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42033,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42036,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42044,
+    "cardPrice": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 42061,
+    "cardPrice": {
+      "amount": "2531",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2531",
+      "currency": "USD"
+    },
+    "setId": 11578,
+    "setName": "Ruler of the Black Flame"
+  },
+  {
+    "cardId": 41494,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41495,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41497,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "508",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41498,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41500,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41501,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41502,
+    "cardPrice": {
+      "amount": "147",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "147",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41503,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41504,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41506,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41507,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41509,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "374",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41510,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41512,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41513,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41514,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41515,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41516,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41517,
+    "cardPrice": {
+      "amount": "80",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "80",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41518,
+    "cardPrice": {
+      "amount": "19954",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "39908",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41521,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41523,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41524,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41525,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41526,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41530,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41532,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41533,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "108",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41534,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41537,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41538,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41541,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41542,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41543,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41545,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41546,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41548,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41549,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41551,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 3,
+    "totalCardValueInCollection": {
+      "amount": "2973",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41553,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41555,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41556,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41557,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41559,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41560,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41561,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41562,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41563,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41565,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41566,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41567,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41568,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41570,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41575,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41577,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41578,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41579,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41580,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41582,
+    "cardPrice": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "857",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41583,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41584,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41585,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41586,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41589,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41590,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41591,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "40",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41592,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41593,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41594,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41595,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41596,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41597,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "40",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41598,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41600,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41601,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41603,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41604,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41605,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41607,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41609,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41611,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "40",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41612,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41613,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "40",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41614,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41615,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41618,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41620,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41622,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41625,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41626,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "66",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41627,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41628,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41629,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41630,
+    "cardPrice": {
+      "amount": "972",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "972",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41631,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41632,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41633,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41635,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41636,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41638,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41641,
+    "cardPrice": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "20",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41645,
+    "cardPrice": {
+      "amount": "47",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "47",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41648,
+    "cardPrice": {
+      "amount": "1076",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "2152",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41649,
+    "cardPrice": {
+      "amount": "1252",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1252",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41650,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41651,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41652,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41654,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41655,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41657,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41658,
+    "cardPrice": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41666,
+    "cardPrice": {
+      "amount": "335",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "335",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41667,
+    "cardPrice": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41676,
+    "cardPrice": {
+      "amount": "201",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "201",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 41687,
+    "cardPrice": {
+      "amount": "335",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "335",
+      "currency": "USD"
+    },
+    "setId": 11575,
+    "setName": "Pok\u00e9mon Card 151"
+  },
+  {
+    "cardId": 40960,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11570,
+    "setName": "Clay Burst"
+  },
+  {
+    "cardId": 40381,
+    "cardPrice": {
+      "amount": "1861",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1861",
+      "currency": "USD"
+    },
+    "setId": 11506,
+    "setName": "Violet ex"
+  },
+  {
+    "cardId": 39833,
+    "cardPrice": {
+      "amount": "670",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "670",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 40407,
+    "cardPrice": {
+      "amount": "100",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "100",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41716,
+    "cardPrice": {
+      "amount": "1339",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1339",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41717,
+    "cardPrice": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41718,
+    "cardPrice": {
+      "amount": "1741",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1741",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41719,
+    "cardPrice": {
+      "amount": "1741",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1741",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41720,
+    "cardPrice": {
+      "amount": "1674",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1674",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41721,
+    "cardPrice": {
+      "amount": "2678",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2678",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41722,
+    "cardPrice": {
+      "amount": "1674",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1674",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41723,
+    "cardPrice": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 41724,
+    "cardPrice": {
+      "amount": "1674",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1674",
+      "currency": "USD"
+    },
+    "setId": 11502,
+    "setName": "Scarlet & Violet Promos"
+  },
+  {
+    "cardId": 39585,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39622,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39624,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39671,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39687,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39747,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39761,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39780,
+    "cardPrice": {
+      "amount": "1138",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1138",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39783,
+    "cardPrice": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39785,
+    "cardPrice": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39787,
+    "cardPrice": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39788,
+    "cardPrice": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1004",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39791,
+    "cardPrice": {
+      "amount": "1875",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1875",
+      "currency": "USD"
+    },
+    "setId": 11503,
+    "setName": "VSTAR Universe"
+  },
+  {
+    "cardId": 39519,
+    "cardPrice": {
+      "amount": "1154",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1154",
+      "currency": "USD"
+    },
+    "setId": 11501,
+    "setName": "Charizard VSTAR vs Rayquaza VMAX Special Deck Set"
+  },
+  {
+    "cardId": 39215,
+    "cardPrice": {
+      "amount": "388",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "388",
+      "currency": "USD"
+    },
+    "setId": 11499,
+    "setName": "Paradigm Trigger"
+  },
+  {
+    "cardId": 39216,
+    "cardPrice": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "setId": 11499,
+    "setName": "Paradigm Trigger"
+  },
+  {
+    "cardId": 38247,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38248,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38261,
+    "cardPrice": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38273,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38283,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38290,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38292,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38298,
+    "cardPrice": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 38527,
+    "cardPrice": {
+      "amount": "455",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "455",
+      "currency": "USD"
+    },
+    "setId": 11481,
+    "setName": "Pok\u00e9mon GO"
+  },
+  {
+    "cardId": 37961,
+    "cardPrice": {
+      "amount": "656",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "656",
+      "currency": "USD"
+    },
+    "setId": 11469,
+    "setName": "Dark Phantasma"
+  },
+  {
+    "cardId": 36090,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "374",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36118,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "374",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36147,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36148,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36166,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36168,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36171,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36173,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "508",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36181,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36191,
+    "cardPrice": {
+      "amount": "80",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "80",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36194,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36256,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36265,
+    "cardPrice": {
+      "amount": "388",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "388",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36268,
+    "cardPrice": {
+      "amount": "3335",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3335",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36322,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36755,
+    "cardPrice": {
+      "amount": "388",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "776",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36756,
+    "cardPrice": {
+      "amount": "388",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "776",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36757,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36760,
+    "cardPrice": {
+      "amount": "455",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "455",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36762,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 36767,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11449,
+    "setName": "VMAX Climax"
+  },
+  {
+    "cardId": 35521,
+    "cardPrice": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "121",
+      "currency": "USD"
+    },
+    "setId": 11437,
+    "setName": "Fusion Arts"
+  },
+  {
+    "cardId": 34960,
+    "cardPrice": {
+      "amount": "522",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "522",
+      "currency": "USD"
+    },
+    "setId": 11430,
+    "setName": "Blue Sky Stream"
+  },
+  {
+    "cardId": 34457,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "108",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34458,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "508",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34466,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34470,
+    "cardPrice": {
+      "amount": "67",
+      "currency": "USD"
+    },
+    "cardCount": 3,
+    "totalCardValueInCollection": {
+      "amount": "201",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34479,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "374",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34480,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "374",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34485,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "108",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34490,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "108",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34495,
+    "cardPrice": {
+      "amount": "54",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "108",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34496,
+    "cardPrice": {
+      "amount": "80",
+      "currency": "USD"
+    },
+    "cardCount": 3,
+    "totalCardValueInCollection": {
+      "amount": "240",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34502,
+    "cardPrice": {
+      "amount": "147",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "294",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34503,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "374",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34853,
+    "cardPrice": {
+      "amount": "656",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "656",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34855,
+    "cardPrice": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "991",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34858,
+    "cardPrice": {
+      "amount": "8571",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "8571",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 34878,
+    "cardPrice": {
+      "amount": "33346",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "33346",
+      "currency": "USD"
+    },
+    "setId": 11424,
+    "setName": "Eevee Heroes"
+  },
+  {
+    "cardId": 32957,
+    "cardPrice": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "setId": 11383,
+    "setName": "Shiny Star V"
+  },
+  {
+    "cardId": 18592,
+    "cardPrice": {
+      "amount": "561",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "561",
+      "currency": "USD"
+    },
+    "setId": 11211,
+    "setName": "Tag All Stars"
+  },
+  {
+    "cardId": 18594,
+    "cardPrice": {
+      "amount": "209",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "209",
+      "currency": "USD"
+    },
+    "setId": 11211,
+    "setName": "Tag All Stars"
+  },
+  {
+    "cardId": 18986,
+    "cardPrice": {
+      "amount": "799",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "799",
+      "currency": "USD"
+    },
+    "setId": 11268,
+    "setName": "Remix Bout"
+  },
+  {
+    "cardId": 19061,
+    "cardPrice": {
+      "amount": "313",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "313",
+      "currency": "USD"
+    },
+    "setId": 11191,
+    "setName": "Miracle Twin"
+  },
+  {
+    "cardId": 19070,
+    "cardPrice": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "setId": 11191,
+    "setName": "Miracle Twin"
+  },
+  {
+    "cardId": 19524,
+    "cardPrice": {
+      "amount": "2991",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2991",
+      "currency": "USD"
+    },
+    "setId": 11180,
+    "setName": "Double Blaze"
+  },
+  {
+    "cardId": 19750,
+    "cardPrice": {
+      "amount": "208",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "208",
+      "currency": "USD"
+    },
+    "setId": 11296,
+    "setName": "Tag Bolt"
+  },
+  {
+    "cardId": 20161,
+    "cardPrice": {
+      "amount": "19999",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "19999",
+      "currency": "USD"
+    },
+    "setId": 11217,
+    "setName": "GX Ultra Shiny"
+  },
+  {
+    "cardId": 20170,
+    "cardPrice": {
+      "amount": "8406",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "8406",
+      "currency": "USD"
+    },
+    "setId": 11217,
+    "setName": "GX Ultra Shiny"
+  },
+  {
+    "cardId": 29414,
+    "cardPrice": {
+      "amount": "2838",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2838",
+      "currency": "USD"
+    },
+    "setId": 11173,
+    "setName": "Awakening Legends"
+  },
+  {
+    "cardId": 29425,
+    "cardPrice": {
+      "amount": "672",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "672",
+      "currency": "USD"
+    },
+    "setId": 11173,
+    "setName": "Awakening Legends"
+  },
+  {
+    "cardId": 29433,
+    "cardPrice": {
+      "amount": "1994",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1994",
+      "currency": "USD"
+    },
+    "setId": 11173,
+    "setName": "Awakening Legends"
+  },
+  {
+    "cardId": 29440,
+    "cardPrice": {
+      "amount": "2750",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2750",
+      "currency": "USD"
+    },
+    "setId": 11173,
+    "setName": "Awakening Legends"
+  },
+  {
+    "cardId": 29462,
+    "cardPrice": {
+      "amount": "209",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "418",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29463,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29464,
+    "cardPrice": {
+      "amount": "149",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "149",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29465,
+    "cardPrice": {
+      "amount": "174",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "174",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29466,
+    "cardPrice": {
+      "amount": "130",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "130",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29467,
+    "cardPrice": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29468,
+    "cardPrice": {
+      "amount": "152",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "152",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29469,
+    "cardPrice": {
+      "amount": "200",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "200",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29470,
+    "cardPrice": {
+      "amount": "1707",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1707",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29471,
+    "cardPrice": {
+      "amount": "1820",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1820",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29472,
+    "cardPrice": {
+      "amount": "618",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "618",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29473,
+    "cardPrice": {
+      "amount": "1499",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1499",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29474,
+    "cardPrice": {
+      "amount": "240",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "240",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29475,
+    "cardPrice": {
+      "amount": "176",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "176",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29476,
+    "cardPrice": {
+      "amount": "311",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "311",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29477,
+    "cardPrice": {
+      "amount": "274",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "274",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29478,
+    "cardPrice": {
+      "amount": "211",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "211",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29479,
+    "cardPrice": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1473",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29480,
+    "cardPrice": {
+      "amount": "1650",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1650",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29481,
+    "cardPrice": {
+      "amount": "243",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "243",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29482,
+    "cardPrice": {
+      "amount": "5150",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5150",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29483,
+    "cardPrice": {
+      "amount": "170",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "170",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29485,
+    "cardPrice": {
+      "amount": "234",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "234",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29490,
+    "cardPrice": {
+      "amount": "3840",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3840",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29492,
+    "cardPrice": {
+      "amount": "899",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "899",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29493,
+    "cardPrice": {
+      "amount": "191",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "191",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29494,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29495,
+    "cardPrice": {
+      "amount": "223",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "223",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29496,
+    "cardPrice": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29497,
+    "cardPrice": {
+      "amount": "164",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "164",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29498,
+    "cardPrice": {
+      "amount": "1089",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1089",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29499,
+    "cardPrice": {
+      "amount": "712",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "712",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29501,
+    "cardPrice": {
+      "amount": "6413",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "6413",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29502,
+    "cardPrice": {
+      "amount": "1477",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1477",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29503,
+    "cardPrice": {
+      "amount": "2021",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2021",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29504,
+    "cardPrice": {
+      "amount": "986",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "986",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29505,
+    "cardPrice": {
+      "amount": "650",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "650",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29506,
+    "cardPrice": {
+      "amount": "1150",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1150",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29507,
+    "cardPrice": {
+      "amount": "148",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "148",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29508,
+    "cardPrice": {
+      "amount": "181",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "181",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29509,
+    "cardPrice": {
+      "amount": "216",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "216",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29510,
+    "cardPrice": {
+      "amount": "1395",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1395",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29511,
+    "cardPrice": {
+      "amount": "293",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "293",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29512,
+    "cardPrice": {
+      "amount": "975",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "975",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29513,
+    "cardPrice": {
+      "amount": "963",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "963",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29514,
+    "cardPrice": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29515,
+    "cardPrice": {
+      "amount": "400",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "400",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29516,
+    "cardPrice": {
+      "amount": "159",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "159",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29517,
+    "cardPrice": {
+      "amount": "138",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "138",
+      "currency": "USD"
+    },
+    "setId": 11266,
+    "setName": "Crossing the Ruins..."
+  },
+  {
+    "cardId": 29632,
+    "cardPrice": {
+      "amount": "302",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "302",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29633,
+    "cardPrice": {
+      "amount": "182",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "182",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29636,
+    "cardPrice": {
+      "amount": "167",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "167",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29637,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29638,
+    "cardPrice": {
+      "amount": "160",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "160",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29639,
+    "cardPrice": {
+      "amount": "237",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "237",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29640,
+    "cardPrice": {
+      "amount": "159",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "159",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29641,
+    "cardPrice": {
+      "amount": "579",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "579",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29642,
+    "cardPrice": {
+      "amount": "441",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "441",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29643,
+    "cardPrice": {
+      "amount": "339",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "339",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29644,
+    "cardPrice": {
+      "amount": "396",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "396",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29645,
+    "cardPrice": {
+      "amount": "488",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "488",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29647,
+    "cardPrice": {
+      "amount": "342",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "342",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29648,
+    "cardPrice": {
+      "amount": "3081",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3081",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29649,
+    "cardPrice": {
+      "amount": "1098",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1098",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29650,
+    "cardPrice": {
+      "amount": "563",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "563",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29651,
+    "cardPrice": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29652,
+    "cardPrice": {
+      "amount": "1147",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1147",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29653,
+    "cardPrice": {
+      "amount": "469",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "469",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29654,
+    "cardPrice": {
+      "amount": "302",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "302",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29655,
+    "cardPrice": {
+      "amount": "328",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "328",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29656,
+    "cardPrice": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29657,
+    "cardPrice": {
+      "amount": "351",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "351",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29658,
+    "cardPrice": {
+      "amount": "249",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "249",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29659,
+    "cardPrice": {
+      "amount": "212",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "212",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29660,
+    "cardPrice": {
+      "amount": "403",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "403",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29661,
+    "cardPrice": {
+      "amount": "279",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "279",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29662,
+    "cardPrice": {
+      "amount": "310",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "310",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29663,
+    "cardPrice": {
+      "amount": "7020",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "7020",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29664,
+    "cardPrice": {
+      "amount": "590",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "590",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29665,
+    "cardPrice": {
+      "amount": "2188",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2188",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29666,
+    "cardPrice": {
+      "amount": "2050",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2050",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29667,
+    "cardPrice": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29668,
+    "cardPrice": {
+      "amount": "223",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "223",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29669,
+    "cardPrice": {
+      "amount": "399",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "399",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29670,
+    "cardPrice": {
+      "amount": "433",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "433",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29671,
+    "cardPrice": {
+      "amount": "1675",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1675",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29672,
+    "cardPrice": {
+      "amount": "1381",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1381",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29673,
+    "cardPrice": {
+      "amount": "1878",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1878",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29674,
+    "cardPrice": {
+      "amount": "288",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "288",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29675,
+    "cardPrice": {
+      "amount": "215",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "215",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29676,
+    "cardPrice": {
+      "amount": "202",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "202",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29677,
+    "cardPrice": {
+      "amount": "277",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "277",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29678,
+    "cardPrice": {
+      "amount": "346",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "346",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29679,
+    "cardPrice": {
+      "amount": "434",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "434",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29680,
+    "cardPrice": {
+      "amount": "777",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "777",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29681,
+    "cardPrice": {
+      "amount": "440",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "440",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29682,
+    "cardPrice": {
+      "amount": "270",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "270",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29683,
+    "cardPrice": {
+      "amount": "989",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "989",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29684,
+    "cardPrice": {
+      "amount": "1142",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1142",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29685,
+    "cardPrice": {
+      "amount": "8050",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "8050",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29686,
+    "cardPrice": {
+      "amount": "3379",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3379",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29687,
+    "cardPrice": {
+      "amount": "324",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "324",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29688,
+    "cardPrice": {
+      "amount": "179",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "179",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29689,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29690,
+    "cardPrice": {
+      "amount": "295",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "295",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29691,
+    "cardPrice": {
+      "amount": "404",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "404",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29692,
+    "cardPrice": {
+      "amount": "1364",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1364",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29693,
+    "cardPrice": {
+      "amount": "248",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "248",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29694,
+    "cardPrice": {
+      "amount": "326",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "326",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29695,
+    "cardPrice": {
+      "amount": "127",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "127",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29696,
+    "cardPrice": {
+      "amount": "282",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "282",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29697,
+    "cardPrice": {
+      "amount": "289",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "289",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29700,
+    "cardPrice": {
+      "amount": "235",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "235",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29701,
+    "cardPrice": {
+      "amount": "401",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "401",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29702,
+    "cardPrice": {
+      "amount": "1342",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1342",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29703,
+    "cardPrice": {
+      "amount": "1080",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1080",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29704,
+    "cardPrice": {
+      "amount": "1300",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1300",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29705,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29706,
+    "cardPrice": {
+      "amount": "192",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "192",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29707,
+    "cardPrice": {
+      "amount": "1203",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1203",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29708,
+    "cardPrice": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29709,
+    "cardPrice": {
+      "amount": "204",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "204",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29710,
+    "cardPrice": {
+      "amount": "277",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "277",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29712,
+    "cardPrice": {
+      "amount": "2599",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2599",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29713,
+    "cardPrice": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "321",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29714,
+    "cardPrice": {
+      "amount": "318",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "318",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29715,
+    "cardPrice": {
+      "amount": "233",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "233",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29716,
+    "cardPrice": {
+      "amount": "237",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "237",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29717,
+    "cardPrice": {
+      "amount": "553",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "553",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29718,
+    "cardPrice": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29719,
+    "cardPrice": {
+      "amount": "286",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "286",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29720,
+    "cardPrice": {
+      "amount": "488",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "488",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29721,
+    "cardPrice": {
+      "amount": "260",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "260",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29722,
+    "cardPrice": {
+      "amount": "767",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "767",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29723,
+    "cardPrice": {
+      "amount": "216",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "216",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29724,
+    "cardPrice": {
+      "amount": "604",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "604",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29725,
+    "cardPrice": {
+      "amount": "371",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "371",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29726,
+    "cardPrice": {
+      "amount": "345",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "345",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29727,
+    "cardPrice": {
+      "amount": "825",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "825",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 32751,
+    "cardPrice": {
+      "amount": "1524",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1524",
+      "currency": "USD"
+    },
+    "setId": 11302,
+    "setName": "Challenge from the Darkness"
+  },
+  {
+    "cardId": 29728,
+    "cardPrice": {
+      "amount": "208",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "208",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29729,
+    "cardPrice": {
+      "amount": "132",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "132",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29731,
+    "cardPrice": {
+      "amount": "144",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "144",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29732,
+    "cardPrice": {
+      "amount": "210",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "210",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29733,
+    "cardPrice": {
+      "amount": "142",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "142",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29734,
+    "cardPrice": {
+      "amount": "493",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "493",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29735,
+    "cardPrice": {
+      "amount": "217",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "217",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29736,
+    "cardPrice": {
+      "amount": "229",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "229",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29738,
+    "cardPrice": {
+      "amount": "245",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "245",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29739,
+    "cardPrice": {
+      "amount": "190",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "190",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29740,
+    "cardPrice": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29741,
+    "cardPrice": {
+      "amount": "551",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "551",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29742,
+    "cardPrice": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29743,
+    "cardPrice": {
+      "amount": "1552",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1552",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29744,
+    "cardPrice": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29746,
+    "cardPrice": {
+      "amount": "1183",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1183",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29747,
+    "cardPrice": {
+      "amount": "1655",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1655",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29748,
+    "cardPrice": {
+      "amount": "1159",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1159",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29749,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29750,
+    "cardPrice": {
+      "amount": "99",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "99",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29751,
+    "cardPrice": {
+      "amount": "77",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "77",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29753,
+    "cardPrice": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "187",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29754,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29755,
+    "cardPrice": {
+      "amount": "399",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "399",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29756,
+    "cardPrice": {
+      "amount": "287",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "287",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29757,
+    "cardPrice": {
+      "amount": "272",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "272",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29758,
+    "cardPrice": {
+      "amount": "274",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "274",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29759,
+    "cardPrice": {
+      "amount": "1000",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1000",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29760,
+    "cardPrice": {
+      "amount": "699",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "699",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29761,
+    "cardPrice": {
+      "amount": "689",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "689",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29762,
+    "cardPrice": {
+      "amount": "1852",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1852",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29763,
+    "cardPrice": {
+      "amount": "590",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "590",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29764,
+    "cardPrice": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29765,
+    "cardPrice": {
+      "amount": "125",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "125",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29767,
+    "cardPrice": {
+      "amount": "641",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "641",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29768,
+    "cardPrice": {
+      "amount": "647",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "647",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29769,
+    "cardPrice": {
+      "amount": "438",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "438",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29770,
+    "cardPrice": {
+      "amount": "174",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "174",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29771,
+    "cardPrice": {
+      "amount": "160",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "160",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29772,
+    "cardPrice": {
+      "amount": "202",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "202",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29773,
+    "cardPrice": {
+      "amount": "140",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "140",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29775,
+    "cardPrice": {
+      "amount": "204",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "204",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29776,
+    "cardPrice": {
+      "amount": "146",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "146",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29777,
+    "cardPrice": {
+      "amount": "240",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "240",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29778,
+    "cardPrice": {
+      "amount": "290",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "290",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29779,
+    "cardPrice": {
+      "amount": "180",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "180",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29780,
+    "cardPrice": {
+      "amount": "352",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "352",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29781,
+    "cardPrice": {
+      "amount": "975",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "975",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29782,
+    "cardPrice": {
+      "amount": "699",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "699",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29783,
+    "cardPrice": {
+      "amount": "123",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "123",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29784,
+    "cardPrice": {
+      "amount": "197",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "197",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29785,
+    "cardPrice": {
+      "amount": "163",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "163",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29786,
+    "cardPrice": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29787,
+    "cardPrice": {
+      "amount": "298",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "298",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29788,
+    "cardPrice": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29789,
+    "cardPrice": {
+      "amount": "350",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "350",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29790,
+    "cardPrice": {
+      "amount": "217",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "217",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29791,
+    "cardPrice": {
+      "amount": "893",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "893",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29792,
+    "cardPrice": {
+      "amount": "807",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "807",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29793,
+    "cardPrice": {
+      "amount": "1465",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1465",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29794,
+    "cardPrice": {
+      "amount": "158",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "158",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29795,
+    "cardPrice": {
+      "amount": "219",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "219",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29796,
+    "cardPrice": {
+      "amount": "2235",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2235",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29797,
+    "cardPrice": {
+      "amount": "184",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "184",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29798,
+    "cardPrice": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29799,
+    "cardPrice": {
+      "amount": "270",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "270",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29800,
+    "cardPrice": {
+      "amount": "322",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "322",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29801,
+    "cardPrice": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29802,
+    "cardPrice": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29803,
+    "cardPrice": {
+      "amount": "525",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "525",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29804,
+    "cardPrice": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29805,
+    "cardPrice": {
+      "amount": "249",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "249",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29806,
+    "cardPrice": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "225",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29807,
+    "cardPrice": {
+      "amount": "244",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "244",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29808,
+    "cardPrice": {
+      "amount": "400",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "400",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29809,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29810,
+    "cardPrice": {
+      "amount": "775",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "775",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29811,
+    "cardPrice": {
+      "amount": "469",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "469",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29812,
+    "cardPrice": {
+      "amount": "875",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "875",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29813,
+    "cardPrice": {
+      "amount": "327",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "327",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29814,
+    "cardPrice": {
+      "amount": "399",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "399",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29815,
+    "cardPrice": {
+      "amount": "265",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "265",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29816,
+    "cardPrice": {
+      "amount": "747",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "747",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29817,
+    "cardPrice": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29818,
+    "cardPrice": {
+      "amount": "237",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "237",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29819,
+    "cardPrice": {
+      "amount": "730",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "730",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29820,
+    "cardPrice": {
+      "amount": "227",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "227",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29821,
+    "cardPrice": {
+      "amount": "297",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "297",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29822,
+    "cardPrice": {
+      "amount": "400",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "400",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29823,
+    "cardPrice": {
+      "amount": "889",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "889",
+      "currency": "USD"
+    },
+    "setId": 11242,
+    "setName": "Leaders' Stadium"
+  },
+  {
+    "cardId": 29824,
+    "cardPrice": {
+      "amount": "178",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "178",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29825,
+    "cardPrice": {
+      "amount": "175",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "175",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29826,
+    "cardPrice": {
+      "amount": "165",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "165",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29827,
+    "cardPrice": {
+      "amount": "1311",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1311",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29828,
+    "cardPrice": {
+      "amount": "160",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "160",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29829,
+    "cardPrice": {
+      "amount": "231",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "231",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29830,
+    "cardPrice": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "299",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29831,
+    "cardPrice": {
+      "amount": "673",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "673",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29832,
+    "cardPrice": {
+      "amount": "580",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "580",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29833,
+    "cardPrice": {
+      "amount": "751",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "751",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29834,
+    "cardPrice": {
+      "amount": "597",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "597",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29835,
+    "cardPrice": {
+      "amount": "359",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "359",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29836,
+    "cardPrice": {
+      "amount": "124",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "124",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29837,
+    "cardPrice": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29838,
+    "cardPrice": {
+      "amount": "397",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "397",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29839,
+    "cardPrice": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29840,
+    "cardPrice": {
+      "amount": "6053",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "6053",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29841,
+    "cardPrice": {
+      "amount": "394",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "394",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29842,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29843,
+    "cardPrice": {
+      "amount": "130",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "130",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29844,
+    "cardPrice": {
+      "amount": "257",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "257",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29845,
+    "cardPrice": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "267",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29846,
+    "cardPrice": {
+      "amount": "396",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "396",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29847,
+    "cardPrice": {
+      "amount": "2283",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2283",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29848,
+    "cardPrice": {
+      "amount": "1040",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1040",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29849,
+    "cardPrice": {
+      "amount": "182",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "182",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29850,
+    "cardPrice": {
+      "amount": "290",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "290",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29851,
+    "cardPrice": {
+      "amount": "151",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "151",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29852,
+    "cardPrice": {
+      "amount": "422",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "422",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29853,
+    "cardPrice": {
+      "amount": "651",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "651",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29854,
+    "cardPrice": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29855,
+    "cardPrice": {
+      "amount": "146",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "146",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29856,
+    "cardPrice": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "198",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29857,
+    "cardPrice": {
+      "amount": "360",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "360",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29858,
+    "cardPrice": {
+      "amount": "978",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1956",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29859,
+    "cardPrice": {
+      "amount": "792",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "792",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29860,
+    "cardPrice": {
+      "amount": "786",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "786",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29861,
+    "cardPrice": {
+      "amount": "276",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "276",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29862,
+    "cardPrice": {
+      "amount": "204",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "204",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29863,
+    "cardPrice": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29864,
+    "cardPrice": {
+      "amount": "229",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "229",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29865,
+    "cardPrice": {
+      "amount": "280",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "280",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29866,
+    "cardPrice": {
+      "amount": "550",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "550",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29867,
+    "cardPrice": {
+      "amount": "850",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "850",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29868,
+    "cardPrice": {
+      "amount": "192",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "192",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29869,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29870,
+    "cardPrice": {
+      "amount": "465",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "465",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29871,
+    "cardPrice": {
+      "amount": "169",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "169",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29872,
+    "cardPrice": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "269",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29873,
+    "cardPrice": {
+      "amount": "257",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "257",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29874,
+    "cardPrice": {
+      "amount": "177",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "177",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29875,
+    "cardPrice": {
+      "amount": "289",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "289",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29876,
+    "cardPrice": {
+      "amount": "1912",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1912",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29877,
+    "cardPrice": {
+      "amount": "331",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "331",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29878,
+    "cardPrice": {
+      "amount": "175",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "175",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29879,
+    "cardPrice": {
+      "amount": "109",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "109",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29880,
+    "cardPrice": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29881,
+    "cardPrice": {
+      "amount": "359",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "359",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29882,
+    "cardPrice": {
+      "amount": "247",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "247",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29883,
+    "cardPrice": {
+      "amount": "149",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "149",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29884,
+    "cardPrice": {
+      "amount": "787",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "787",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29885,
+    "cardPrice": {
+      "amount": "1375",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1375",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29886,
+    "cardPrice": {
+      "amount": "200",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "200",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29887,
+    "cardPrice": {
+      "amount": "157",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "157",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29888,
+    "cardPrice": {
+      "amount": "622",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "622",
+      "currency": "USD"
+    },
+    "setId": 11249,
+    "setName": "Rocket Gang"
+  },
+  {
+    "cardId": 29897,
+    "cardPrice": {
+      "amount": "1030",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "2060",
+      "currency": "USD"
+    },
+    "setId": 11172,
+    "setName": "Mystery of the Fossils"
+  },
+  {
+    "cardId": 29911,
+    "cardPrice": {
+      "amount": "975",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1950",
+      "currency": "USD"
+    },
+    "setId": 11172,
+    "setName": "Mystery of the Fossils"
+  },
+  {
+    "cardId": 29914,
+    "cardPrice": {
+      "amount": "855",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1710",
+      "currency": "USD"
+    },
+    "setId": 11172,
+    "setName": "Mystery of the Fossils"
+  },
+  {
+    "cardId": 29938,
+    "cardPrice": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "134",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29939,
+    "cardPrice": {
+      "amount": "128",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "128",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29940,
+    "cardPrice": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29941,
+    "cardPrice": {
+      "amount": "162",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "162",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29942,
+    "cardPrice": {
+      "amount": "123",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "123",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29943,
+    "cardPrice": {
+      "amount": "294",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "294",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29944,
+    "cardPrice": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "242",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29945,
+    "cardPrice": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "150",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29946,
+    "cardPrice": {
+      "amount": "274",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "274",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29947,
+    "cardPrice": {
+      "amount": "136",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "136",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29948,
+    "cardPrice": {
+      "amount": "184",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "184",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29949,
+    "cardPrice": {
+      "amount": "799",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1598",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29950,
+    "cardPrice": {
+      "amount": "600",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1200",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29951,
+    "cardPrice": {
+      "amount": "701",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1402",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29952,
+    "cardPrice": {
+      "amount": "600",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1200",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29953,
+    "cardPrice": {
+      "amount": "602",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1204",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29954,
+    "cardPrice": {
+      "amount": "649",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1298",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29955,
+    "cardPrice": {
+      "amount": "288",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "288",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29956,
+    "cardPrice": {
+      "amount": "1278",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "2556",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29957,
+    "cardPrice": {
+      "amount": "235",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "235",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29958,
+    "cardPrice": {
+      "amount": "393",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "393",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29959,
+    "cardPrice": {
+      "amount": "1764",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "3528",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29960,
+    "cardPrice": {
+      "amount": "357",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "357",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29961,
+    "cardPrice": {
+      "amount": "639",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1278",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29962,
+    "cardPrice": {
+      "amount": "1034",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "2068",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29963,
+    "cardPrice": {
+      "amount": "836",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1672",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29964,
+    "cardPrice": {
+      "amount": "129",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "129",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29965,
+    "cardPrice": {
+      "amount": "152",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "152",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29966,
+    "cardPrice": {
+      "amount": "163",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "163",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29967,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29968,
+    "cardPrice": {
+      "amount": "184",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "184",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29969,
+    "cardPrice": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29970,
+    "cardPrice": {
+      "amount": "123",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "123",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29971,
+    "cardPrice": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "250",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29972,
+    "cardPrice": {
+      "amount": "168",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "168",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29973,
+    "cardPrice": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "300",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29974,
+    "cardPrice": {
+      "amount": "214",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "214",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29975,
+    "cardPrice": {
+      "amount": "343",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "343",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29976,
+    "cardPrice": {
+      "amount": "194",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "194",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29977,
+    "cardPrice": {
+      "amount": "320",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "320",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29978,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29979,
+    "cardPrice": {
+      "amount": "719",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "1438",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29980,
+    "cardPrice": {
+      "amount": "720",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "720",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29981,
+    "cardPrice": {
+      "amount": "561",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "561",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29982,
+    "cardPrice": {
+      "amount": "676",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "676",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29983,
+    "cardPrice": {
+      "amount": "1288",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1288",
+      "currency": "USD"
+    },
+    "setId": 11201,
+    "setName": "Pok\u00e9mon Jungle"
+  },
+  {
+    "cardId": 29985,
+    "cardPrice": {
+      "amount": "3125",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3125",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29986,
+    "cardPrice": {
+      "amount": "1156",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1156",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29987,
+    "cardPrice": {
+      "amount": "682",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "682",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29988,
+    "cardPrice": {
+      "amount": "350",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "350",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29990,
+    "cardPrice": {
+      "amount": "712",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "712",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29991,
+    "cardPrice": {
+      "amount": "714",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "714",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29992,
+    "cardPrice": {
+      "amount": "2095",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2095",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29993,
+    "cardPrice": {
+      "amount": "1360",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1360",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29994,
+    "cardPrice": {
+      "amount": "405",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "405",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29995,
+    "cardPrice": {
+      "amount": "18125",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "36250",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29996,
+    "cardPrice": {
+      "amount": "4999",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "4999",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29997,
+    "cardPrice": {
+      "amount": "7052",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "7052",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29998,
+    "cardPrice": {
+      "amount": "2566",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2566",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 29999,
+    "cardPrice": {
+      "amount": "2038",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2038",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30000,
+    "cardPrice": {
+      "amount": "900",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "900",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30001,
+    "cardPrice": {
+      "amount": "1789",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1789",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30002,
+    "cardPrice": {
+      "amount": "603",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "603",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30003,
+    "cardPrice": {
+      "amount": "3299",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3299",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30004,
+    "cardPrice": {
+      "amount": "1998",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1998",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30005,
+    "cardPrice": {
+      "amount": "99432",
+      "currency": "USD"
+    },
+    "cardCount": 2,
+    "totalCardValueInCollection": {
+      "amount": "198864",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30006,
+    "cardPrice": {
+      "amount": "7958",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "7958",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30007,
+    "cardPrice": {
+      "amount": "2249",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2249",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30008,
+    "cardPrice": {
+      "amount": "179",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "179",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30009,
+    "cardPrice": {
+      "amount": "1262",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1262",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30010,
+    "cardPrice": {
+      "amount": "200",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "200",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30011,
+    "cardPrice": {
+      "amount": "1356",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1356",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30012,
+    "cardPrice": {
+      "amount": "1998",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1998",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30013,
+    "cardPrice": {
+      "amount": "499",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "499",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30014,
+    "cardPrice": {
+      "amount": "132",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "132",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30015,
+    "cardPrice": {
+      "amount": "2333",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2333",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30016,
+    "cardPrice": {
+      "amount": "16147",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "16147",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30017,
+    "cardPrice": {
+      "amount": "6917",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "6917",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30018,
+    "cardPrice": {
+      "amount": "7855",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "7855",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30019,
+    "cardPrice": {
+      "amount": "1755",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1755",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30020,
+    "cardPrice": {
+      "amount": "1061",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1061",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30021,
+    "cardPrice": {
+      "amount": "861",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "861",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30022,
+    "cardPrice": {
+      "amount": "9707",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "9707",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30023,
+    "cardPrice": {
+      "amount": "700",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "700",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30024,
+    "cardPrice": {
+      "amount": "325",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "325",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30025,
+    "cardPrice": {
+      "amount": "2548",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2548",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30026,
+    "cardPrice": {
+      "amount": "6734",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "6734",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30027,
+    "cardPrice": {
+      "amount": "700",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "700",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30028,
+    "cardPrice": {
+      "amount": "3195",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3195",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30029,
+    "cardPrice": {
+      "amount": "1211",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1211",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30030,
+    "cardPrice": {
+      "amount": "2941",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2941",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30031,
+    "cardPrice": {
+      "amount": "748",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "748",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30032,
+    "cardPrice": {
+      "amount": "2731",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2731",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30033,
+    "cardPrice": {
+      "amount": "5287",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5287",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30034,
+    "cardPrice": {
+      "amount": "16676",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "16676",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30035,
+    "cardPrice": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "254",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30036,
+    "cardPrice": {
+      "amount": "145",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "145",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30037,
+    "cardPrice": {
+      "amount": "748",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "748",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30038,
+    "cardPrice": {
+      "amount": "836",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "836",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30039,
+    "cardPrice": {
+      "amount": "550",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "550",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30040,
+    "cardPrice": {
+      "amount": "5501",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5501",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30041,
+    "cardPrice": {
+      "amount": "2700",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2700",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30042,
+    "cardPrice": {
+      "amount": "4211",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "4211",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30043,
+    "cardPrice": {
+      "amount": "1078",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1078",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30044,
+    "cardPrice": {
+      "amount": "1077",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1077",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30045,
+    "cardPrice": {
+      "amount": "773",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "773",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30046,
+    "cardPrice": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1714",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30047,
+    "cardPrice": {
+      "amount": "700",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "700",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30048,
+    "cardPrice": {
+      "amount": "1299",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1299",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30049,
+    "cardPrice": {
+      "amount": "1898",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1898",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30050,
+    "cardPrice": {
+      "amount": "2700",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2700",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30051,
+    "cardPrice": {
+      "amount": "5524",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5524",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30052,
+    "cardPrice": {
+      "amount": "7200",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "7200",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30053,
+    "cardPrice": {
+      "amount": "10580",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "10580",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30054,
+    "cardPrice": {
+      "amount": "195",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "195",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30055,
+    "cardPrice": {
+      "amount": "839",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "839",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30056,
+    "cardPrice": {
+      "amount": "281",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "281",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30057,
+    "cardPrice": {
+      "amount": "428",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "428",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30058,
+    "cardPrice": {
+      "amount": "926",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "926",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30059,
+    "cardPrice": {
+      "amount": "599",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "599",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30060,
+    "cardPrice": {
+      "amount": "1155",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1155",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30061,
+    "cardPrice": {
+      "amount": "683",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "683",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30062,
+    "cardPrice": {
+      "amount": "186",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "186",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30063,
+    "cardPrice": {
+      "amount": "3499",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "3499",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30064,
+    "cardPrice": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "199",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30065,
+    "cardPrice": {
+      "amount": "662",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "662",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30069,
+    "cardPrice": {
+      "amount": "999",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "999",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30070,
+    "cardPrice": {
+      "amount": "5048",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5048",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30071,
+    "cardPrice": {
+      "amount": "1143",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "1143",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30072,
+    "cardPrice": {
+      "amount": "6500",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "6500",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30074,
+    "cardPrice": {
+      "amount": "4999",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "4999",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30075,
+    "cardPrice": {
+      "amount": "5000",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5000",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30076,
+    "cardPrice": {
+      "amount": "2500",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "2500",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30079,
+    "cardPrice": {
+      "amount": "5000",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "5000",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30080,
+    "cardPrice": {
+      "amount": "4645",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "4645",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30081,
+    "cardPrice": {
+      "amount": "144",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "144",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30082,
+    "cardPrice": {
+      "amount": "178",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "178",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30083,
+    "cardPrice": {
+      "amount": "103",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "103",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30084,
+    "cardPrice": {
+      "amount": "138",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "138",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30085,
+    "cardPrice": {
+      "amount": "115",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "115",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  },
+  {
+    "cardId": 30086,
+    "cardPrice": {
+      "amount": "125",
+      "currency": "USD"
+    },
+    "cardCount": 1,
+    "totalCardValueInCollection": {
+      "amount": "125",
+      "currency": "USD"
+    },
+    "setId": 11182,
+    "setName": "Expansion Pack"
+  }
+]

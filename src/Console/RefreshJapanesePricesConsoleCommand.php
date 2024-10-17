@@ -8,12 +8,16 @@ use App\Domain\JpnCards\JpnCardsApi;
 use App\Domain\Money\CurrencyApi;
 use App\Domain\Money\MoneyFormatter;
 use App\Domain\TcgCollector\TcgCollector;
+use App\Infrastructure\Console\Io;
 use App\Infrastructure\Exception\NotFound;
+use App\Infrastructure\Serialization\Json;
+use League\Flysystem\FilesystemOperator;
 use Money\Currency;
 use Money\Money;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Command\SignalableCommandInterface;
+use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
@@ -25,38 +29,48 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         private readonly JpnCardsApi $jpnCards,
         private readonly CurrencyApi $currencyApi,
         private readonly MoneyFormatter $moneyFormatter,
+        private readonly FilesystemOperator $filesystem,
     ) {
         parent::__construct();
     }
 
+    protected function configure(): void
+    {
+        $this->addArgument('username', InputArgument::REQUIRED, 'username');
+    }
+
     public function execute(InputInterface $input, OutputInterface $output): int
     {
-        $username = 'Frogfuhrer';
+        $io = new Io($input, $output);
+        $username = $input->getArgument('username');
 
-        $output->writeln('=> Fetching Japanese TCG Collector sets...');
+        $io->title('TCG Collector Japanese prices');
+
+        $io->newOperation('Fetching Japanese TCG Collector sets...');
         $tcgcSets = $this->tcgCollector->getJapaneseSetsInProgress($username);
 
-        $output->writeln('=> Fetching JpnCards sets...');
+        $io->newOperation('Fetching JpnCards sets...');
         $jpnSets = $this->jpnCards->getSets();
 
-        $output->writeln('=> Fetching exchange rate JPY => USD...');
+        $io->newOperation('Fetching exchange rate JPY => USD...');
         $fromCurrency = new Currency('JPY');
         $toCurrency = new Currency('USD');
         $exchange = $this->currencyApi->getExchange($fromCurrency);
 
-        $output->writeln(sprintf(
-            '   <info>%s = %s</info>',
+        $io->info(sprintf(
+            '%s = %s',
             $this->moneyFormatter->formatAsCurrency(Money::JPY(100)),
             $this->moneyFormatter->formatAsCurrency($exchange->convert(Money::JPY(100), $toCurrency)),
         ));
 
-        $output->writeln('==========================================');
+        $io->separator();
 
         /* @var \App\Domain\TcgCollector\Set\TcgcSet $tcgcSet */
+        $json = [];
         $totalCollectionValue = Money::USD(0);
         foreach ($tcgcSets as $tcgcSet) {
             $correspondingJpnSet = $jpnSets->findCorrespondingForTcgcSet($tcgcSet);
-            $output->writeln(sprintf('=> Processing set "%s (%s)"', $correspondingJpnSet->getSetName(), $correspondingJpnSet->getSetCode()));
+            $io->newOperation(sprintf('Processing set "%s (%s)"', $correspondingJpnSet->getSetName(), $correspondingJpnSet->getSetCode()));
 
             $cardsInCollectionForSet = $this->tcgCollector->getCardsInCollectionForSet(
                 userName: $username,
@@ -83,35 +97,44 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
                     if ($price->getCurrency()->equals($fromCurrency)) {
                         $price = $exchange->convert($price, $toCurrency);
                     }
-                    $totalSetValue = $totalSetValue->add($price->multiply($card->getCardCount()));
+
+                    $totalCardValueInCollection = $price->multiply($card->getCardCount());
+                    $json[] = [
+                        'cardId' => $card->getCardId(),
+                        'cardPrice' => $price,
+                        'cardCount' => $card->getCardCount(),
+                        'totalCardValueInCollection' => $totalCardValueInCollection,
+                        'setId' => $tcgcSet->getSetId(),
+                        'setName' => $correspondingJpnSet->getSetName(),
+                    ];
+                    $totalSetValue = $totalSetValue->add($totalCardValueInCollection);
                 } catch (NotFound) {
                     ++$countCardsThatCouldNotBeMatched;
-                    $output->writeln(sprintf('   <comment>* No matching card found for %s</comment>', $card->getCardUrl()));
+                    $io->warning(sprintf('* No matching card found for %s', $card->getCardUrl()));
                 }
             }
             $totalCollectionValue = $totalCollectionValue->add($totalSetValue);
 
-            $output->writeln(sprintf('   <info>* %d card(s) processed</info>', $countCardsThatCouldBeMatched));
+            $io->info(sprintf('* %d card(s) processed', $countCardsThatCouldBeMatched));
             if ($countCardsThatCouldNotBeMatchedWithoutAPrice) {
-                $output->writeln(sprintf('   <comment>* of which %d card(s) do not have a price</comment>', $countCardsThatCouldNotBeMatchedWithoutAPrice));
+                $io->warning(sprintf('* of which %d card(s) do not have a price', $countCardsThatCouldNotBeMatchedWithoutAPrice));
             }
 
             if ($countCardsThatCouldNotBeMatched) {
-                $output->writeln(sprintf(
-                    '   <comment>* %d card(s) could not be matched</comment>',
-                    $countCardsThatCouldNotBeMatched
-                ));
+                $io->warning(sprintf('* %d card(s) could not be matched', $countCardsThatCouldNotBeMatched));
             }
-            $output->writeln(sprintf(
-                '   <info>* Set has an estimated value of %s</info>',
-                $this->moneyFormatter->formatAsCurrency($totalSetValue)
-            ));
+            $io->info(sprintf('* Set has an estimated value of %s', $this->moneyFormatter->formatAsCurrency($totalSetValue)));
         }
 
-        $output->writeln(sprintf(
+        $io->separator();
+
+        $io->newOperation(sprintf(
             'Collection has an estimated value of %s',
             $this->moneyFormatter->formatAsCurrency($totalCollectionValue))
         );
+
+        $this->filesystem->write('output/collection.json', Json::encode($json));
+        $io->newOperation('Saved output in output/collection.json');
 
         return Command::SUCCESS;
     }
