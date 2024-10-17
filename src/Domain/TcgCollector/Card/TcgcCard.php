@@ -21,4 +21,9 @@ final readonly class TcgcCard
     {
         return $this->cardId;
     }
+
+    public function getCardUrl(): string
+    {
+        return 'https://www.tcgcollector.com/cards/'.$this->getCardId();
+    }
 }

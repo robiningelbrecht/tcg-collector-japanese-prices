@@ -2,6 +2,6 @@
 
 namespace App\Infrastructure\Exception;
 
-class EntityNotFound extends \RuntimeException
+class NotFound extends \RuntimeException
 {
 }

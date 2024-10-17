@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace App\Domain\JpnCards\Set;
 
+use App\Domain\TcgCollector\Set\TcgcSet;
+
 final readonly class JpnSet
 {
     public function __construct(
@@ -32,5 +34,14 @@ final readonly class JpnSet
     public function getSourceUrl(): string
     {
         return $this->sourceUrl;
+    }
+
+    public function matches(TcgcSet $tcgcSet): bool
+    {
+        if ($this->getSourceUrl() === 'https://www.tcgcollector.com/cards/jp/'.$tcgcSet->getSetMachineName()) {
+            return true;
+        }
+
+        return str_contains($this->getSourceUrl(), 'https://www.tcgcollector.com/sets/'.$tcgcSet->getSetId());
     }
 }
