@@ -66,7 +66,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         $io->separator();
 
         /* @var \App\Domain\TcgCollector\Set\TcgcSet $tcgcSet */
-        $json = ['cards'];
+        $json = [];
         $totalCollectionValue = Money::USD(0);
         foreach ($tcgcSets as $tcgcSet) {
             $correspondingJpnSet = $jpnSets->findCorrespondingForTcgcSet($tcgcSet);
