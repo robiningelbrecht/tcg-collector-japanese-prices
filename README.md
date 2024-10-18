@@ -1,2 +1,7 @@
-# tcg-collector-japanese-prices
-Contains prices of Japanese cards in my personal collection
+# TCG Collector Japanese prices
+
+TODO
+
+```bash
+>  make console arg="app:tcgc:refresh-japanese-prices your-tcgc-username"
+```
