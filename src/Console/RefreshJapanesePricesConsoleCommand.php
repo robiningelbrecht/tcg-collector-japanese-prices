@@ -66,7 +66,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         $io->separator();
 
         /* @var \App\Domain\TcgCollector\Set\TcgcSet $tcgcSet */
-        $json = [];
+        $json = ['cards'];
         $totalCollectionValue = Money::USD(0);
         foreach ($tcgcSets as $tcgcSet) {
             $correspondingJpnSet = $jpnSets->findCorrespondingForTcgcSet($tcgcSet);
@@ -99,7 +99,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
                     }
 
                     $totalCardValueInCollection = $price->multiply($card->getCardCount());
-                    $json[] = [
+                    $json['cards'][] = [
                         'cardId' => $card->getCardId(),
                         'cardName' => $correspondingJpnCard->getCardName(),
                         'cardNumber' => $correspondingJpnCard->getCardSequenceNumber(),
@@ -127,6 +127,8 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
             }
             $io->info(sprintf('* Set has an estimated value of %s', $this->moneyFormatter->formatAsCurrency($totalSetValue)));
         }
+
+        $json['totalCollectionValue'] = $totalCollectionValue;
 
         $io->separator();
 
