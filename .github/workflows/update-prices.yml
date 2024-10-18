@@ -21,6 +21,7 @@ jobs:
 
       - name: Refresh prices for Japanese cards in collection
         run: |
+          composer install
           bin/console app:tcgc:refresh-japanese-prices Frogfuhrer
       - name: Commit and push changes
         run: |
