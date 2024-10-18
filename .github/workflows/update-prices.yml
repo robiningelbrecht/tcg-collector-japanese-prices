@@ -5,8 +5,8 @@ on:
     - cron: '30 22 * * 1'
   workflow_dispatch:
 jobs:
-  update-github-profile:
-    name: Update GitHub profile
+  refresh-prices-japanese-cards:
+    name: Refresh prices for Japanese cards in collection
     runs-on: ubuntu-latest
     steps:
       # https://github.com/marketplace/actions/setup-php-action
