@@ -2,7 +2,7 @@ name: Update prices for collection
 
 on:
   schedule:
-    - cron: '30 22 * * 1'
+    - cron: '30 20 * * *'
   workflow_dispatch:
 jobs:
   refresh-prices-japanese-cards:
