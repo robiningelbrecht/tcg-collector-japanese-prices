@@ -48,7 +48,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         $io->title('TCG Collector Japanese prices');
 
         $io->newOperation('Fetching market price for INTL cards...');
-        $marketPriceIntl = $this->tcgCollector->getMarketPriceFor($username, TcgcRegion::JAPAN);
+        $marketPriceIntl = $this->tcgCollector->getMarketPriceFor($username, TcgcRegion::INTERNATIONAL);
 
         $io->newOperation('Fetching Japanese TCG Collector sets...');
         $tcgcSets = $this->tcgCollector->getJapaneseSetsInProgress($username);
@@ -84,7 +84,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
 
             /** @var \App\Domain\TcgCollector\Card\TcgcCard $card */
             $countCardsThatCouldBeMatched = 0;
-            $countCardsThatCouldNotBeMatchedWithoutAPrice = 0;
+            $countCardsThatCouldBeMatchedWithoutAPrice = 0;
             $countCardsThatCouldNotBeMatched = 0;
 
             $totalSetValue = Money::USD(0);
@@ -95,7 +95,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
 
                     if (!$price = $correspondingJpnCard->getPrice()) {
                         // No prices found for card, skip.
-                        ++$countCardsThatCouldNotBeMatchedWithoutAPrice;
+                        ++$countCardsThatCouldBeMatchedWithoutAPrice;
                         continue;
                     }
                     if ($price->getCurrency()->equals($fromCurrency)) {
@@ -122,8 +122,8 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
             $totalCollectionValue = $totalCollectionValue->add($totalSetValue);
 
             $io->info(sprintf('* %d card(s) processed', $countCardsThatCouldBeMatched));
-            if ($countCardsThatCouldNotBeMatchedWithoutAPrice) {
-                $io->warning(sprintf('* of which %d card(s) do not have a price', $countCardsThatCouldNotBeMatchedWithoutAPrice));
+            if ($countCardsThatCouldBeMatchedWithoutAPrice) {
+                $io->warning(sprintf('* of which %d card(s) do not have a price', $countCardsThatCouldBeMatchedWithoutAPrice));
             }
 
             if ($countCardsThatCouldNotBeMatched) {
