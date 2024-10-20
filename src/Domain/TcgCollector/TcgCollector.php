@@ -9,6 +9,7 @@ use App\Domain\TcgCollector\Card\TcgcCards;
 use App\Domain\TcgCollector\Set\TcgcSet;
 use App\Domain\TcgCollector\Set\TcgcSets;
 use App\Infrastructure\Serialization\Json;
+use App\Infrastructure\Xml\Xpath;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
 use Money\Money;
@@ -47,14 +48,8 @@ final readonly class TcgCollector
             ]
         );
 
-        // Suppress any faulty HTML errors.
-        libxml_use_internal_errors(true);
-        $dom = new \DOMDocument();
-        $dom->loadHTML($response);
-
-        $x = new \DOMXPath($dom);
-
-        $marketPriceNode = $x->query("//div[@id='dashboard-cards']/div/div[@class='dashboard-card-text']")[3]
+        $xpath = new Xpath($response);
+        $marketPriceNode = $xpath->query("//div[@id='dashboard-cards']/div/div[@class='dashboard-card-text']")[3]
             ?? throw new \RuntimeException('Unable to determine market price for '.$region->name);
 
         $marketPriceIntl = str_replace('$', '', trim($marketPriceNode->textContent));
@@ -75,19 +70,19 @@ final readonly class TcgCollector
             ]
         );
 
-        $regex = sprintf(
-            '/<a href="\/sets\/(?<setId>[\d]+)\/(?<setMachineName>.*)\?viewUser=%s"[\s]*class="set-logo-grid-item-set-logo-container"/U',
-            $userName
-        );
-        if (!preg_match_all($regex, $response, $matches)) {
-            throw new \RuntimeException('No sets in progress found, check if the regex needs updating.');
-        }
-
         $sets = TcgcSets::empty();
-        foreach ($matches['setId'] as $key => $setId) {
+        $xpath = new Xpath($response);
+
+        /** @var \DOMNode $jpnSetLinkNode */
+        foreach ($xpath->query("//a[@class='set-logo-grid-item-set-name']") as $jpnSetLinkNode) {
+            if (!$jpnSetLink = ltrim(parse_url($jpnSetLinkNode->getAttribute('href'), PHP_URL_PATH), '/')) {
+                throw new \RuntimeException('Invalid set link '.$jpnSetLinkNode->getAttribute('href'));
+            }
+
+            [$ignore, $setId, $setMachineName] = explode('/', $jpnSetLink);
             $sets->add(new TcgcSet(
                 setId: (int) $setId,
-                setMachineName: $matches['setMachineName'][$key]
+                setMachineName: $setMachineName
             ));
         }
 

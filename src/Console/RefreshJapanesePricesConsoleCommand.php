@@ -48,7 +48,7 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         $io->title('TCG Collector Japanese prices');
 
         $io->newOperation('Fetching market price for INTL cards...');
-        $marketPriceIntl = $this->tcgCollector->getMarketPriceFor($username, TcgcRegion::INTERNATIONAL);
+        $marketPriceIntl = $this->tcgCollector->getMarketPriceFor($username, TcgcRegion::JAPAN);
 
         $io->newOperation('Fetching Japanese TCG Collector sets...');
         $tcgcSets = $this->tcgCollector->getJapaneseSetsInProgress($username);
