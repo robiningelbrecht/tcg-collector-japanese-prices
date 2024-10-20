@@ -6,6 +6,7 @@ namespace App\Console;
 
 use App\Domain\JpnCards\JpnCardsApi;
 use App\Domain\Money\CurrencyApi;
+use App\Domain\Money\JsonSerializableMoney;
 use App\Domain\Money\MoneyFormatter;
 use App\Domain\TcgCollector\TcgCollector;
 use App\Domain\TcgCollector\TcgcRegion;
@@ -107,9 +108,9 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
                         'cardId' => $card->getCardId(),
                         'cardName' => $correspondingJpnCard->getCardName(),
                         'cardNumber' => $correspondingJpnCard->getCardSequenceNumber(),
-                        'cardPrice' => $price,
+                        'cardPrice' => new JsonSerializableMoney($price),
                         'cardCount' => $card->getCardCount(),
-                        'totalCardValueInCollection' => $totalCardValueInCollection,
+                        'totalCardValueInCollection' => new JsonSerializableMoney($totalCardValueInCollection),
                         'setId' => $tcgcSet->getSetId(),
                         'setName' => $correspondingJpnSet->getSetName(),
                     ];
@@ -133,8 +134,8 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         }
 
         $json['totalCollectionValue'] = [
-            'jp' => $totalCollectionValue,
-            'intl' => $marketPriceIntl,
+            'jp' => new JsonSerializableMoney($totalCollectionValue),
+            'intl' => new JsonSerializableMoney($marketPriceIntl),
         ];
 
         $io->separator();

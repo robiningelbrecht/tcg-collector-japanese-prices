@@ -12,6 +12,7 @@
     "ext-json": "*",
     "ext-pcntl": "*",
     "ext-bcmath": "*",
+    "ext-intl": "*",
     "ext-libxml": "*",
     "doctrine/dbal": "^4.0",
     "doctrine/migrations": "^3.7",
