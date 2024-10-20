@@ -11,6 +11,7 @@ use App\Domain\TcgCollector\Set\TcgcSets;
 use App\Infrastructure\Serialization\Json;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
+use Money\Money;
 
 final readonly class TcgCollector
 {
@@ -32,6 +33,33 @@ final readonly class TcgCollector
         $response = $this->client->request($method, $path, $options);
 
         return $response->getBody()->getContents();
+    }
+
+    public function getMarketPriceFor(string $userName, TcgcRegion $region): Money
+    {
+        $response = $this->request(
+            $region->value,
+            'GET',
+            [
+                RequestOptions::QUERY => [
+                    'viewUser' => $userName,
+                ],
+            ]
+        );
+
+        // Suppress any faulty HTML errors.
+        libxml_use_internal_errors(true);
+        $dom = new \DOMDocument();
+        $dom->loadHTML($response);
+
+        $x = new \DOMXPath($dom);
+
+        $marketPriceNode = $x->query("//div[@id='dashboard-cards']/div/div[@class='dashboard-card-text']")[3]
+            ?? throw new \RuntimeException('Unable to determine market price for '.$region->name);
+
+        $marketPriceIntl = str_replace('$', '', trim($marketPriceNode->textContent));
+
+        return Money::USD((string) ($marketPriceIntl * 100));
     }
 
     public function getJapaneseSetsInProgress(string $userName): TcgcSets

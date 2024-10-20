@@ -8,6 +8,7 @@ use App\Domain\JpnCards\JpnCardsApi;
 use App\Domain\Money\CurrencyApi;
 use App\Domain\Money\MoneyFormatter;
 use App\Domain\TcgCollector\TcgCollector;
+use App\Domain\TcgCollector\TcgcRegion;
 use App\Infrastructure\Console\Io;
 use App\Infrastructure\Exception\NotFound;
 use App\Infrastructure\Serialization\Json;
@@ -45,6 +46,9 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
         $username = $input->getArgument('username');
 
         $io->title('TCG Collector Japanese prices');
+
+        $io->newOperation('Fetching market price for INTL cards...');
+        $marketPriceIntl = $this->tcgCollector->getMarketPriceFor($username, TcgcRegion::INTERNATIONAL);
 
         $io->newOperation('Fetching Japanese TCG Collector sets...');
         $tcgcSets = $this->tcgCollector->getJapaneseSetsInProgress($username);
@@ -128,7 +132,10 @@ final class RefreshJapanesePricesConsoleCommand extends Command implements Signa
             $io->info(sprintf('* Set has an estimated value of %s', $this->moneyFormatter->formatAsCurrency($totalSetValue)));
         }
 
-        $json['totalCollectionValue'] = $totalCollectionValue;
+        $json['totalCollectionValue'] = [
+            'jp' => $totalCollectionValue,
+            'intl' => $marketPriceIntl,
+        ];
 
         $io->separator();
 
